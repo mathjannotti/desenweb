@@ -1,0 +1,15 @@
+
+body {
+    background-image: url('https://c.files.bbci.co.uk/AB24/production/_116221834_mediaitem116221830.jpg');
+    background-size: cover;
+}
+h1 {
+    color: lightblue;
+    background-color: white;
+    border: 1px solid black;
+}
+
+p  { 
+    color: black;
+
+}
