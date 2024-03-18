@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Reggae+One&display=swap');
+
+.reggae-one-regular {
+    font-family: "Reggae One", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .TEXTOMODIFICADO{
+    font-family: "Reggae One", system-ui;
+    font-size:xx-large;
+    color:blue
+}
+  .SPAMMM{
+    font-weight: bold;
+    background-color: lightblue;
+    color:red
+}
+
+  #divbackground{
+    background-color: lightcoral;
+    height: 30px;
+  }
+
+  #divbackground2{
+    background-color: lightgreen;
+    min-height: 20vh;
+  }
